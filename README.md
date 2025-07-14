@@ -6,7 +6,7 @@ A modern, responsive MERN-based web application that allows users to input sourc
 
 ## 🚀 Features
 
-- ✅ Review JavaScript code with Gemini AI
+- ✅ Review Code(C++, Java, Javascript and Python etc.) with Gemini AI
 - ✅ Instant AI-powered feedback with actionable suggestions
 - ✅ Markdown-formatted output with syntax highlighting
 - ✅ Copy-to-clipboard functionality
