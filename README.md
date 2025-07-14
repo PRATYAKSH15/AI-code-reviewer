@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Code Reviewer
 
-A modern, responsive MERN-based web application that allows users to input source code and receive intelligent feedback using Google’s Gemini AI. Designed with a sleek dark theme and typing animations — perfect for showcasing on a resume or portfolio.
+A modern, responsive MERN-based web application that allows users to input source code and receive intelligent feedback using Google’s Gemini AI. Designed with a sleek dark theme and typing animations.
 
 ---
 
